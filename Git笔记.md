@@ -64,7 +64,10 @@ git add "filename"
 git add * #添加全部文件
 ```
 
-
+### Git提交
+```git
+git commit -m '描述信息'
+```
 
 
 

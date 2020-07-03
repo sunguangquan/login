@@ -15,3 +15,4 @@ LANGUAGE_CODE = 'zh-hans'
 TIME_ZONE = 'Asia/Shanghai'
 # 设置不使用国际时区。
 USE_TZ = False
+# 为什么git的编码会除问题呢。
